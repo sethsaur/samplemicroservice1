@@ -1,0 +1,22 @@
+version: '2.1'
+services:
+  config:
+    build: config
+    ports:
+      - 8888:8888
+
+  discovery:
+    build: discovery
+
+  gateway:
+    build: gateway
+
+  program-service:
+    build: program-service
+    ports:
+      - 7000:7000
+
+  scenario-service:
+    build: scenario-service
+    ports:
+      - 6000:6000
