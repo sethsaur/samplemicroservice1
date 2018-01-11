@@ -10,6 +10,6 @@ public class ScenarioController {
 
     @RequestMapping(path = "/{name}", method = RequestMethod.GET)
     public String getAccountByName(@PathVariable String name) {
-        return "modified scenario name " + name;
+        return "modified scenario " + name;
     }
 }
