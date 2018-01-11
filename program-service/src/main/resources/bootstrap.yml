@@ -3,5 +3,5 @@ spring:
     name: program-service
   cloud:
     config:
-      uri: http://localhost:8888
+      uri: http://config:8888
       fail-fast: true
