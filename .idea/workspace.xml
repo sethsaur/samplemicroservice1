@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="717d0514-6f43-4673-ad2d-8656596bd933" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/src/main/resources/shared/application.yml" afterPath="$PROJECT_DIR$/config/src/main/resources/shared/application.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/discovery/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/discovery/src/main/resources/bootstrap.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gateway/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/gateway/src/main/resources/bootstrap.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-service/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/program-service/src/main/resources/bootstrap.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scenario-service/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/scenario-service/src/main/resources/bootstrap.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/scenario-service/target/" />
     <ignored path="$PROJECT_DIR$/config/target/" />
@@ -157,7 +153,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1744" />
     <option name="y" value="363" />
     <option name="width" value="1550" />
@@ -481,15 +477,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515664920338</updated>
-      <workItem from="1515664924530" duration="840000" />
+      <workItem from="1515664924530" duration="1222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="840000" />
+    <option name="totallyTimeSpent" value="1222000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1608" y="89" width="1616" height="876" extended-state="6" />
+    <frame x="-1608" y="89" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
