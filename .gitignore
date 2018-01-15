@@ -2,3 +2,5 @@
 sample-microservice.iml
 config/target/
 config/config.iml
+discovery/target/
+discovery/discovery.iml
