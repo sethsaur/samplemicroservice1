@@ -1,3 +1,0 @@
-server:
-  context-path: /api/program
-  port: 7000

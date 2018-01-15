@@ -1,3 +1,0 @@
-server:
-  context-path: /api/scenario
-  port: 6000
