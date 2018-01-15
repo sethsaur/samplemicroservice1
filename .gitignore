@@ -4,3 +4,5 @@ config/target/
 config/config.iml
 discovery/target/
 discovery/discovery.iml
+program-service/target/
+program-service/program-service.iml
