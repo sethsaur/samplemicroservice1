@@ -4,5 +4,9 @@ config/target/
 config/config.iml
 discovery/target/
 discovery/discovery.iml
+gateway/target/
+gateway/gateway.iml
 program-service/target/
 program-service/program-service.iml
+scenario-service/target/
+scenario-service/scenario-service.iml
