@@ -1,2 +1,4 @@
 .idea/
 sample-microservice.iml
+config/target/
+config/config.iml
